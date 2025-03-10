@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to TUS loan related local APIs "
+  contactDetails:
+    name: "Anna - Developer"
+    email: "anna@tus.ie"
+  onCallSupport:
+    - (452) 456-2176
+    - (546) 764-8934

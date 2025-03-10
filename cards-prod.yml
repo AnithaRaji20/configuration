@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "Welcome to TUS cards related prod APIs "
+  contactDetails:
+    name: "John Murphy - Product Owner"
+    email: "john@tus.ie"
+  onCallSupport:
+    - (086) 656-8709
+    - (086) 342-0956
