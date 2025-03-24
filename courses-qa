@@ -6,8 +6,8 @@ course:
     name: "Course Support Team - QA"
     email: "coursesupport@tus.ie"
   onCallSupport:
-    - (086) 555-1122
-    - (087) 523-4455
+    - (086) 324-1122
+    - (087) 324-4455
   services:
     - name: "Course Info"
       description: "API to get course information"
