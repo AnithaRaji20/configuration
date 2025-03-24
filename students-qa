@@ -1,0 +1,21 @@
+build:
+  version: "2.0"
+student:
+  message: "Welcome to the student-related APIs"
+  contactDetails:
+    name: "Student Support Team - QA"
+    email: "support@tus.ie"
+  onCallSupport:
+    - (086) 324-9876
+    - (087) 324-9987
+  services:
+    - name: "Student Registration"
+      description: "API for registering students"
+      endpoint: "/api/students"
+      methods:
+        - "POST"
+    - name: "Student Info"
+      description: "API to get student information"
+      endpoint: "/api/students/{id}"
+      methods:
+        - "GET"
