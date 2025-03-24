@@ -8,14 +8,3 @@ student:
   onCallSupport:
     - (086) 324-9876
     - (087) 324-9987
-  services:
-    - name: "Student Registration"
-      description: "API for registering students"
-      endpoint: "/api/students"
-      methods:
-        - "POST"
-    - name: "Student Info"
-      description: "API to get student information"
-      endpoint: "/api/students/{id}"
-      methods:
-        - "GET"
