@@ -1,0 +1,16 @@
+build:
+  version: "2.0"
+course:
+  message: "Welcome to the course-related APIs"
+  contactDetails:
+    name: "Course Support Team - QA"
+    email: "coursesupport@tus.ie"
+  onCallSupport:
+    - (086) 555-1122
+    - (087) 523-4455
+  services:
+    - name: "Course Info"
+      description: "API to get course information"
+      endpoint: "/api/courses"
+      methods:
+        - "GET"
