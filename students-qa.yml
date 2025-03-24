@@ -1,6 +1,6 @@
 build:
   version: "2.0"
-student:
+student-service:
   message: "Welcome to the student-related APIs"
   contactDetails:
     name: "Student Support Team - QA"
