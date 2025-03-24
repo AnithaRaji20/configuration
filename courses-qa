@@ -8,9 +8,3 @@ course:
   onCallSupport:
     - (086) 324-1122
     - (087) 324-4455
-  services:
-    - name: "Course Info"
-      description: "API to get course information"
-      endpoint: "/api/courses"
-      methods:
-        - "GET"
