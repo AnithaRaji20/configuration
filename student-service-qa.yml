@@ -1,10 +1,11 @@
 build:
   version: "2.0"
+
 student-service:
-  message: "Welcome to the student-related APIs"
+  message: "Welcome to the student-related QA APIs"
   contactDetails:
     name: "Student Support Team - QA"
     email: "support@tus.ie"
   onCallSupport:
-    - (086) 324-9876
-    - (087) 324-9987
+    - "(086) 256-9876"
+    - "(087) 276-9987"
