@@ -1,10 +1,11 @@
 build:
   version: "1.0"
+
 student-service:
   message: "Welcome to the student-related APIs"
   contactDetails:
-    name: "Student Support Team - PROD"
+    name: "Student Support Team - DEV"
     email: "support@tus.ie"
   onCallSupport:
-    - (086) 555-9876
-    - (087) 523-9987
+    - "(086) 555-9876"
+    - "(087) 523-9987"
