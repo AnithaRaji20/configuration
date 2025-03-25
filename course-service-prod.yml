@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+course-service:
+  message: "Welcome to the course-related PROD APIs"
+  contactDetails:
+    name: "Course Support Team - PROD"
+    email: "coursesupport@tus.ie"
+  onCallSupport:
+    - "(086) 343-1122"
+    - "(087) 343-4455"

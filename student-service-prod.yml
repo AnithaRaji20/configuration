@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+student-service:
+  message: "Welcome to the student-related PROD APIs"
+  contactDetails:
+    name: "Student Support Team - PROD"
+    email: "support@tus.ie"
+  onCallSupport:
+    - "(086) 345-9876"
+    - "(087) 316-9987"
